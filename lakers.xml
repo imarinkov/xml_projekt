@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lak.xsl"?>
+
+<Team>
+    <Player>
+        <Name>LeBron James</Name>
+        <Position>SF/PF</Position>
+        <PPG>27.3</PPG>
+        <APG>9.7</APG>
+        <td>8.6</td>
+    </Player>
+    <Player>
+        <Name>Anthony Davis</Name>
+        <Position>PF/C</Position>
+        <PPG>29.4</PPG>
+        <APG>4.3</APG>
+        <RPG>11.2</RPG>
+    </Player>
+    <Player>
+        <Name>Andre Drummond</Name>
+        <Position>C</Position>
+        <PPG>15.8</PPG>
+        <APG>1.3</APG>
+        <RPG>13.4</RPG>
+    </Player>
+    <Player>
+        <Name>Dennis Schroder</Name>
+        <Position>PG</Position>
+        <PPG>15.4</PPG>
+        <APG>7.6</APG>
+        <RPG>2.2</RPG>
+    </Player>
+    <Player>
+        <Name>Kyle Kuzma</Name>
+        <Position>SF/PF</Position>
+        <PPG>18.3</PPG>
+        <APG>3.3</APG>
+        <RPG>6.4</RPG>
+    </Player>
+    <Player>
+        <Name>Montrezl Harrell</Name>
+        <Position>PF/C</Position>
+        <PPG>9.4</PPG>
+        <APG>1.2</APG>
+        <RPG>8.4</RPG>
+    </Player>
+    <Player>
+        <Name>Marc Gasol</Name>
+        <Position>C</Position>
+        <PPG>6.7</PPG>
+        <APG>6.6</APG>
+        <RPG>5.3</RPG>
+    </Player>
+    <Player>
+        <Name>Rajon Rondo</Name>
+        <Position>PG</Position>
+        <PPG>6.7</PPG>
+        <APG>8.8</APG>
+        <RPG>5.6</RPG>
+    </Player>
+    <Player>
+        <Name>Alex Caruso</Name>
+        <Position>SG/SF</Position>
+        <PPG>11.5</PPG>
+        <APG>5.5</APG>
+        <RPG>3.4</RPG>
+    </Player>
+    <Player>
+        <Name>Kentavious Pope</Name>
+        <Position>SG/SF</Position>
+        <PPG>4.5</PPG>
+        <APG>3.5</APG>
+        <RPG>2.3</RPG>
+    </Player>
+    <Player>
+        <Name>Ben Mclemore</Name>
+        <Position>SG</Position>
+        <PPG>4.5</PPG>
+        <APG>0.4</APG>
+        <RPG>3.3</RPG>
+    </Player>
+    <Player>
+        <Name>Wesley Matthews</Name>
+        <Position>SG</Position>
+        <PPG>4.5</PPG>
+        <APG>0.8</APG>
+        <RPG>2.5</RPG>
+    </Player>
+    <Player>
+        <Name>Talen Tucker</Name>
+        <Position>SF</Position>
+        <PPG>12.5</PPG>
+        <APG>3.8</APG>
+        <RPG>5.7</RPG>
+    </Player>
+    <Player>
+        <Name>Markieff Morris</Name>
+        <Position>SF/PF</Position>
+        <PPG>9.5</PPG>
+        <APG>3.7</APG>
+        <RPG>6.6</RPG>
+    </Player>
+</Team>
